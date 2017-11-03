@@ -1,7 +1,7 @@
 # StudyForAndroid
 # 这是你不应该错过的一本百科全书，开源资料持续更新中~
 
-### 欢迎加入Android技术交流群：118116509
+#### 欢迎加入开发交流QQ群：118116509 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e6ad4af66393684e1d0c9441403b049d2d5670ec0ce9f72150e694cbb7c16b0a"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Android神技侧漏交流群" title="Android神技侧漏交流群"></a>( 点击图标即可加入 )<br>
 ### 欢迎贡献Pull requests, 我会根据内容 Merge.
 
 ## 一、写在前面
@@ -127,6 +127,17 @@ https://github.com/stormzhang/android-interview-questions-cn （stormzhang）
 
 　　面试依然是亘古不变的话题，amitshekhariitbhu 大神为我们做了 Android 的面试问题整理，无奈只有英文的。不过帅比张和他的朋友们励志为 Android 乃至更大的领域提供中文版本，所以有了第二个地址。
   
+
+#### 17、 React-native-guide
+https://github.com/reactnativecn/react-native-guide
+
+　　也许你会很奇怪，为什么我收录了前端的 React-native 的学习资料，想必我不用多说了吧。懂的人自然懂。该库包含了全面的 RN 学习指南，不容错过。
+  
+#### 17、 RxJava 线下活动视频及其文档
+https://github.com/zhihu/zhihu-rxjava-meetup
+
+　　扔物线大神朱凯结合知乎 Android 技术开发团队在北京进行了非常 Nice 的 RxJava 在 Android 中的开发交流，带了视频和 PPT，扔物线朱凯，业界良心。视频已经查看，推荐关注。
+
 ### 关于作者
     南尘<br>
     四川成都<br>
@@ -136,7 +147,12 @@ https://github.com/stormzhang/android-interview-questions-cn （stormzhang）
     [博客园](http://www.cnblogs.com/liushilin/)<br>
     欢迎投稿(关注)我的唯一公众号，公众号搜索 nanchen 或者扫描下方二维码：<br>
     ![](http://images2015.cnblogs.com/blog/845964/201707/845964-20170718083641599-1963842541.jpg)
-    
+   
+### 推荐
+
+这里推荐一下 [stormzhang](http://stormzhang.com) 的小密圈「帅张和他的朋友们」，体验用心的帅比张。<br>
+点击后面链接或扫描下方二维码加入，http://t.xiaomiquan.com/VBuZRVV<br>
+![](https://github.com/nanchen2251/AiYaSchoolPush/blob/master/photo/stormzhang.png)
 #### 有码走遍天下 无码寸步难行（引自网络）
 
 > 1024 - 梦想，永不止步!  
